@@ -28,7 +28,7 @@
                             <ColumnDefinition Width="4*"/>
                         </Grid.ColumnDefinitions>
                         <Border Background="Black" Style="{StaticResource BorderStyle1}">
-                            <Image Margin="10,10,10,10" Source="C:\Users\User\source\repos\Template\Template\bin\Debug\phone.png"></Image>
+                            <Image Margin="10,10,10,10" Source="Images\phone.png"></Image>
                         </Border>
                         <Border Background="Black" Style="{StaticResource BorderStyle2}" Grid.Column="1">
                             <TextBox Width="300" Height="40"></TextBox>
@@ -46,7 +46,7 @@
                             <ColumnDefinition Width="4*"/>
                         </Grid.ColumnDefinitions>
                         <Border Background="#029cdf" Style="{StaticResource BorderStyle1}">
-                            <Image  Margin="10,10,10,10" Source="C:\Users\User\source\repos\Template\Template\bin\Debug\Mail.png"></Image>
+                            <Image  Margin="10,10,10,10" Source="Images\Mail.png"></Image>
                         </Border>
                         <Border Background="#029cdf" Style="{StaticResource BorderStyle2}" Grid.Column="1">
                             <TextBox Width="300" Height="40"></TextBox>
